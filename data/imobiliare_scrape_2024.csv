@@ -1,0 +1,32 @@
+oras,judet,tip_proprietate,camere,suprafata_mp,pret_euro,pret_eur_mp,an_constructie,zona,tip_vanzator,luna_anunt
+Bucuresti,Ilfov,apartament,2,55,95000,1727,1990,Sector 1,agentie,Ian 2024
+Bucuresti,Ilfov,apartament,3,72,165000,2292,2018,Sector 1,agentie,Ian 2024
+Bucuresti,Ilfov,apartament,2,50,88000,1760,1985,Sector 2,particular,Feb 2024
+Bucuresti,Ilfov,apartament,3,78,145000,1859,2010,Sector 2,agentie,Feb 2024
+Bucuresti,Ilfov,apartament,1,38,58000,1526,1975,Sector 3,particular,Mar 2024
+Bucuresti,Ilfov,apartament,2,60,97000,1617,1982,Sector 3,agentie,Mar 2024
+Bucuresti,Ilfov,apartament,2,56,83000,1482,1978,Sector 4,particular,Apr 2024
+Bucuresti,Ilfov,apartament,3,80,128000,1600,2005,Sector 4,agentie,Apr 2024
+Bucuresti,Ilfov,apartament,2,58,98000,1690,2015,Sector 5,agentie,Mai 2024
+Bucuresti,Ilfov,apartament,3,85,155000,1824,2019,Sector 6,agentie,Mai 2024
+Cluj-Napoca,Cluj,apartament,2,52,138000,2654,2017,Manastur,agentie,Ian 2024
+Cluj-Napoca,Cluj,apartament,3,75,205000,2733,2020,Marasti,agentie,Feb 2024
+Cluj-Napoca,Cluj,apartament,1,36,92000,2556,2018,Gheorgheni,particular,Mar 2024
+Cluj-Napoca,Cluj,apartament,2,55,148000,2691,2021,Floresti,agentie,Apr 2024
+Cluj-Napoca,Cluj,apartament,3,82,218000,2659,2022,Central,agentie,Mai 2024
+Cluj-Napoca,Cluj,apartament,2,58,142000,2448,2015,Iris,agentie,Iun 2024
+Timisoara,Timis,apartament,2,54,108000,2000,2018,Circumvalatiunii,agentie,Ian 2024
+Timisoara,Timis,apartament,3,76,162000,2132,2021,Dacia,agentie,Mar 2024
+Timisoara,Timis,apartament,2,58,104000,1793,2010,Fabric,particular,Mai 2024
+Timisoara,Timis,apartament,1,38,68000,1789,2016,Mehala,agentie,Iun 2024
+Iasi,Iasi,apartament,2,55,88000,1600,2012,Tatarasi,agentie,Feb 2024
+Iasi,Iasi,apartament,3,78,135000,1731,2019,Copou,agentie,Apr 2024
+Iasi,Iasi,apartament,2,52,82000,1577,1988,Pacurari,particular,Iun 2024
+Brasov,Brasov,apartament,2,56,115000,2054,2017,Racadau,agentie,Mar 2024
+Brasov,Brasov,apartament,3,80,172000,2150,2022,Centru,agentie,Mai 2024
+Constanta,Constanta,apartament,2,55,85000,1545,2008,Mamaia,agentie,Apr 2024
+Constanta,Constanta,apartament,3,75,125000,1667,2015,Tomis Nord,agentie,Iun 2024
+Craiova,Dolj,apartament,2,58,90000,1552,2010,Brazda lui Novac,agentie,Ian 2024
+Craiova,Dolj,apartament,3,75,118000,1573,2018,Craiovita Noua,agentie,Mar 2024
+Oradea,Bihor,apartament,2,55,96000,1745,2016,Nufarul,agentie,Feb 2024
+Oradea,Bihor,apartament,3,80,142000,1775,2020,Iosia,agentie,Apr 2024
