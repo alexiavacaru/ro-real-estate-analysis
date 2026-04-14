@@ -27,8 +27,9 @@ Data Visualization: Matplotlib and Seaborn for notebook charts.
 
 Dashboard: Streamlit (a simple web application to interact with the data).
 
-Project Structure
-Plaintext
+## Project Structure
+
+```text
 ro-real-estate-analysis/
 ├── data/
 │   ├── raw/                 # raw data (imobiliare_scrape_2024.csv, INS & BNR data)
