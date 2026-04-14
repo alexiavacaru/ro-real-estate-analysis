@@ -1,0 +1,65 @@
+trimestru,an,oras,pret_mediu_eur_mp,tip_locuinta,nr_obs_estimat,sursa_principala,HPI_Romania_2015_100
+T1,2019,Bucuresti,1245,apartament,850,Imobiliare.ro/Compariimobiliare,130.2
+T2,2019,Bucuresti,1268,apartament,920,Imobiliare.ro/Compariimobiliare,131.8
+T3,2019,Bucuresti,1290,apartament,980,Imobiliare.ro/Compariimobiliare,133.1
+T4,2019,Bucuresti,1310,apartament,870,Imobiliare.ro/Compariimobiliare,134.5
+T1,2020,Bucuresti,1335,apartament,780,Imobiliare.ro/Compariimobiliare,135.8
+T2,2020,Bucuresti,1290,apartament,520,Imobiliare.ro (Covid),134.9
+T3,2020,Bucuresti,1270,apartament,650,Imobiliare.ro (Covid),131.4
+T4,2020,Bucuresti,1320,apartament,890,Imobiliare.ro/Compariimobiliare,133.2
+T1,2021,Bucuresti,1380,apartament,950,Imobiliare.ro/Compariimobiliare,136.5
+T2,2021,Bucuresti,1420,apartament,1050,Imobiliare.ro/Compariimobiliare,139.8
+T3,2021,Bucuresti,1460,apartament,1100,Storia/OLX,142.4
+T4,2021,Bucuresti,1510,apartament,1020,Storia/OLX,144.9
+T1,2022,Bucuresti,1570,apartament,1150,Storia/OLX,147.2
+T2,2022,Bucuresti,1620,apartament,1200,Storia/OLX,148.6
+T3,2022,Bucuresti,1640,apartament,1180,Storia/OLX,147.5
+T4,2022,Bucuresti,1660,apartament,1050,Storia/OLX/ZF Index,146.83
+T1,2023,Bucuresti,1665,apartament,980,Storia/OLX/ZF Index,146.28
+T2,2023,Bucuresti,1680,apartament,1020,Storia/OLX/ZF Index,147.1
+T3,2023,Bucuresti,1700,apartament,1080,SonarHome/ZF Index,152.1
+T4,2023,Bucuresti,1720,apartament,1100,SonarHome/ZF Index,153.8
+T1,2024,Bucuresti,1730,apartament,1150,SonarHome/Patru Pereti,156.2
+T2,2024,Bucuresti,1748,apartament,1200,Patru Pereti (tranzactii reale S2),157.0
+T3,2024,Bucuresti,1755,apartament,1180,SonarHome,158.8
+T4,2024,Bucuresti,1760,apartament,1050,SonarHome,160.5
+T1,2019,Cluj-Napoca,1820,apartament,420,Compariimobiliare,130.2
+T2,2019,Cluj-Napoca,1890,apartament,450,Compariimobiliare,131.8
+T3,2019,Cluj-Napoca,1950,apartament,480,Compariimobiliare,133.1
+T4,2019,Cluj-Napoca,1980,apartament,410,Compariimobiliare,134.5
+T1,2020,Cluj-Napoca,2010,apartament,360,Compariimobiliare,135.8
+T2,2020,Cluj-Napoca,1950,apartament,240,Compariimobiliare (Covid),134.9
+T3,2020,Cluj-Napoca,1980,apartament,310,Compariimobiliare,131.4
+T4,2020,Cluj-Napoca,2050,apartament,420,Compariimobiliare,133.2
+T1,2021,Cluj-Napoca,2150,apartament,460,Compariimobiliare,136.5
+T2,2021,Cluj-Napoca,2250,apartament,500,Compariimobiliare,139.8
+T3,2021,Cluj-Napoca,2350,apartament,520,Compariimobiliare,142.4
+T4,2021,Cluj-Napoca,2450,apartament,480,Compariimobiliare,144.9
+T1,2022,Cluj-Napoca,2500,apartament,510,Compariimobiliare,147.2
+T2,2022,Cluj-Napoca,2520,apartament,540,Compariimobiliare,148.6
+T3,2022,Cluj-Napoca,2540,apartament,520,Compariimobiliare,147.5
+T4,2022,Cluj-Napoca,2560,apartament,470,Compariimobiliare,146.83
+T1,2023,Cluj-Napoca,2520,apartament,440,Compariimobiliare,146.28
+T2,2023,Cluj-Napoca,2560,apartament,460,Compariimobiliare,147.1
+T3,2023,Cluj-Napoca,2595,apartament,490,Compariimobiliare,152.1
+T4,2023,Cluj-Napoca,2630,apartament,480,Compariimobiliare,153.8
+T1,2024,Cluj-Napoca,2638,apartament,510,Compariimobiliare,156.2
+T2,2024,Cluj-Napoca,2658,apartament,540,Compariimobiliare (iun 2024 confirmat),157.0
+T3,2024,Cluj-Napoca,2680,apartament,520,Compariimobiliare,158.8
+T4,2024,Cluj-Napoca,2700,apartament,470,Compariimobiliare,160.5
+T1,2022,Timisoara,1650,apartament,320,Storia/OLX,147.2
+T2,2022,Timisoara,1700,apartament,340,Storia/OLX,148.6
+T3,2022,Timisoara,1750,apartament,330,Storia/OLX,147.5
+T4,2022,Timisoara,1780,apartament,295,Storia/OLX,146.83
+T1,2023,Timisoara,1800,apartament,280,Storia/OLX,146.28
+T2,2023,Timisoara,1830,apartament,295,Storia/OLX,147.1
+T3,2023,Timisoara,1870,apartament,310,Storia/OLX,152.1
+T4,2023,Timisoara,1910,apartament,300,Storia/OLX,153.8
+T1,2024,Timisoara,1950,apartament,315,Storia/OLX,156.2
+T2,2024,Timisoara,2000,apartament,330,Storia/OLX,157.0
+T3,2024,Timisoara,2020,apartament,320,Storia/OLX,158.8
+T4,2024,Timisoara,2040,apartament,285,Storia/OLX,160.5
+T1,2024,Craiova,1507,apartament,180,Storia/OLX (ian 2024 confirmat),156.2
+T2,2024,Craiova,1540,apartament,190,Storia/OLX,157.0
+T3,2024,Craiova,1560,apartament,185,Storia/OLX,158.8
+T4,2024,Craiova,1575,apartament,170,Storia/OLX,160.5

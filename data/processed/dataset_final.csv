@@ -1,0 +1,32 @@
+id,data,oras,judet,regiune,tip_prop,camere,suprafata_mp,pret_euro,pret_eur_mp,an_constructie,zona,HPI_trim,IRCC_trim_pct,autorizatii_judet_an,pret_mp_log,hpi_norm,sursa
+1,2024-01-15,Bucuresti,Ilfov,Bucuresti-Ilfov,apartament,2,55,95000,1727,1990,Sector 1,156.2,5.86,3095,7.454,1.562,imobiliare_scrape
+2,2024-01-20,Bucuresti,Ilfov,Bucuresti-Ilfov,apartament,3,72,165000,2292,2018,Sector 1,156.2,5.86,3095,7.738,1.562,imobiliare_scrape
+3,2024-02-10,Bucuresti,Ilfov,Bucuresti-Ilfov,apartament,2,50,88000,1760,1985,Sector 2,156.2,5.86,3095,7.473,1.562,imobiliare_scrape
+4,2024-02-18,Bucuresti,Ilfov,Bucuresti-Ilfov,apartament,3,78,145000,1859,2010,Sector 2,156.2,5.86,3095,7.527,1.562,imobiliare_scrape
+5,2024-03-05,Bucuresti,Ilfov,Bucuresti-Ilfov,apartament,1,38,58000,1526,1975,Sector 3,156.2,5.86,3095,7.331,1.562,imobiliare_scrape
+6,2024-03-22,Bucuresti,Ilfov,Bucuresti-Ilfov,apartament,2,60,97000,1617,1982,Sector 3,156.2,5.86,3095,7.388,1.562,imobiliare_scrape
+7,2024-04-08,Bucuresti,Ilfov,Bucuresti-Ilfov,apartament,2,56,83000,1482,1978,Sector 4,157.0,5.99,3095,7.301,1.57,imobiliare_scrape
+8,2024-04-15,Bucuresti,Ilfov,Bucuresti-Ilfov,apartament,3,80,128000,1600,2005,Sector 4,157.0,5.99,3095,7.378,1.57,imobiliare_scrape
+9,2024-05-10,Bucuresti,Ilfov,Bucuresti-Ilfov,apartament,2,58,98000,1690,2015,Sector 5,157.0,5.99,3095,7.432,1.57,imobiliare_scrape
+10,2024-05-25,Bucuresti,Ilfov,Bucuresti-Ilfov,apartament,3,85,155000,1824,2019,Sector 6,157.0,5.99,3095,7.509,1.57,imobiliare_scrape
+11,2024-01-12,Cluj-Napoca,Cluj,Nord-Vest,apartament,2,52,138000,2654,2017,Manastur,156.2,5.86,2048,7.884,1.562,imobiliare_scrape
+12,2024-02-08,Cluj-Napoca,Cluj,Nord-Vest,apartament,3,75,205000,2733,2020,Marasti,156.2,5.86,2048,7.913,1.562,imobiliare_scrape
+13,2024-03-15,Cluj-Napoca,Cluj,Nord-Vest,apartament,1,36,92000,2556,2018,Gheorgheni,156.2,5.86,2048,7.846,1.562,imobiliare_scrape
+14,2024-04-20,Cluj-Napoca,Cluj,Nord-Vest,apartament,2,55,148000,2691,2021,Floresti,157.0,5.99,2048,7.899,1.57,imobiliare_scrape
+15,2024-05-18,Cluj-Napoca,Cluj,Nord-Vest,apartament,3,82,218000,2659,2022,Central,157.0,5.99,2048,7.885,1.57,imobiliare_scrape
+16,2024-06-10,Cluj-Napoca,Cluj,Nord-Vest,apartament,2,58,142000,2448,2015,Iris,157.0,5.99,2048,7.803,1.57,imobiliare_scrape
+17,2024-01-18,Timisoara,Timis,Vest,apartament,2,54,108000,2000,2018,Circumvalatiunii,156.2,5.86,2188,7.601,1.562,imobiliare_scrape
+18,2024-03-12,Timisoara,Timis,Vest,apartament,3,76,162000,2132,2021,Dacia,156.2,5.86,2188,7.664,1.562,imobiliare_scrape
+19,2024-05-20,Timisoara,Timis,Vest,apartament,2,58,104000,1793,2010,Fabric,157.0,5.99,2188,7.491,1.57,imobiliare_scrape
+20,2024-06-15,Timisoara,Timis,Vest,apartament,1,38,68000,1789,2016,Mehala,157.0,5.99,2188,7.489,1.57,imobiliare_scrape
+21,2024-02-14,Iasi,Iasi,Nord-Est,apartament,2,55,88000,1600,2012,Tatarasi,156.2,5.86,1606,7.378,1.562,imobiliare_scrape
+22,2024-04-18,Iasi,Iasi,Nord-Est,apartament,3,78,135000,1731,2019,Copou,157.0,5.99,1606,7.456,1.57,imobiliare_scrape
+23,2024-06-05,Iasi,Iasi,Nord-Est,apartament,2,52,82000,1577,1988,Pacurari,157.0,5.99,1606,7.363,1.57,imobiliare_scrape
+24,2024-03-20,Brasov,Brasov,Centru,apartament,2,56,115000,2054,2017,Racadau,156.2,5.86,990,7.628,1.562,imobiliare_scrape
+25,2024-05-12,Brasov,Brasov,Centru,apartament,3,80,172000,2150,2022,Centru,157.0,5.99,990,7.674,1.57,imobiliare_scrape
+26,2024-04-10,Constanta,Constanta,Sud-Est,apartament,2,55,85000,1545,2008,Mamaia Nord,157.0,5.99,1097,7.342,1.57,imobiliare_scrape
+27,2024-06-18,Constanta,Constanta,Sud-Est,apartament,3,75,125000,1667,2015,Tomis Nord,157.0,5.99,1097,7.419,1.57,imobiliare_scrape
+28,2024-01-22,Craiova,Dolj,Sud-Vest Oltenia,apartament,2,58,90000,1552,2010,Brazda lui Novac,156.2,5.86,904,7.347,1.562,imobiliare_scrape
+29,2024-03-08,Craiova,Dolj,Sud-Vest Oltenia,apartament,3,75,118000,1573,2018,Craiovita Noua,156.2,5.86,904,7.361,1.562,imobiliare_scrape
+30,2024-02-20,Oradea,Bihor,Nord-Vest,apartament,2,55,96000,1745,2016,Nufarul,156.2,5.86,1198,7.465,1.562,imobiliare_scrape
+31,2024-04-25,Oradea,Bihor,Nord-Vest,apartament,3,80,142000,1775,2020,Iosia,157.0,5.99,1198,7.482,1.57,imobiliare_scrape
