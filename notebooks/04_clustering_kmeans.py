@@ -20,11 +20,6 @@ sns.set_theme(style='whitegrid')
 
 print("Librăriile sunt importate cu succes.")
 
-# Nu avem nevoie de fișiere externe pentru acest script.
-# Datele sunt introduse direct (agregate din sursele brute).
-# Dacă vrei să pornești din CSV-uri brute, rulează mai întâi
-# celulele opționale de la sfârșitul scriptului.
-
 cluster_df = pd.DataFrame({
     'oras': [
         'Bucuresti', 'Cluj-Napoca', 'Timisoara',
