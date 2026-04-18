@@ -13,9 +13,6 @@ sns.set_theme(style='whitegrid', palette='muted')
 
 print("Librăriile sunt importate cu succes.")
 
-from google.colab import files
-uploaded = files.upload()
-print("Fișiere încărcate:", list(uploaded.keys()))
 
 df   = pd.read_csv('imobiliare_scrape_2024.csv')
 hpi  = pd.read_excel('INS_indice_preturi_locuinte.xlsx',
@@ -45,6 +42,7 @@ print(df.isnull().sum())
 
 print("\n=== Statistici descriptive ===")
 display(df.describe().round(1))
+
 
 fig, axes = plt.subplots(1, 2, figsize=(15, 5))
 
@@ -133,6 +131,7 @@ ax.yaxis.set_major_formatter(
 plt.tight_layout()
 plt.savefig('01_pret_vs_suprafata.png', bbox_inches='tight')
 plt.show()
+
 
 # Curățăm datele HPI
 hpi_clean = hpi.dropna(subset=['An', 'HPI_Total']).copy()
@@ -231,5 +230,3 @@ print(f"\nTotal observații în dataset: {len(df):,}")
 print(f"Preț mediu național:         {df['pret_eur_mp'].mean():.0f} €/mp")
 print(f"Preț median național:        {df['pret_eur_mp'].median():.0f} €/mp")
 print(f"Interval preț:               {df['pret_eur_mp'].min():,} — {df['pret_eur_mp'].max():,} €/mp")
-
-print("\nFiguri salvate în directorul curent din Colab.")
